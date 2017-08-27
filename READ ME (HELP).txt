@@ -1,0 +1,16 @@
+Features:
+1. Random Question Generator is a program that generates a file of questions.
+2. The number of questions and questions file is input by the user.
+3. It selects the questions randomly and uniquely from a pool of questions in the input file.
+
+Instructions:
+1. It works with only plain text files i.e. (.txt) files.
+2. Input file must be in the same format as in Questions.txt file (Given-7KB)
+3. Open the output file in Notepad++ for better readability.
+
+
+Enjoy the software......!!!!
+
+Made by:
+Vaibhav Vijay 
+vaibhavvijay9@gmail.com

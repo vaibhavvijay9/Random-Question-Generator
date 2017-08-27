@@ -1,0 +1,114 @@
+Q1.	What do you know about Java?
+Q2.	What are the supported platforms by Java Programming Language?
+Q3.	List any five features of Java?
+Q4.	Why is Java Architectural Neutral?
+Q5.	What is a singleton class? Give a practical example of its usage.
+Q6.	What are the access modifiers in Java?
+Q7.	What is are packages?
+Q8.	What is meant by Inheritance and what are its advantages?
+Q9.	What is the difference between superclass and subclass?
+Q10. What is an abstract class?
+Q11. What are the states associated in the thread?
+Q12. What is synchronization?
+Q13. What is deadlock?
+Q14. What is an applet?
+Q15. What is the lifecycle of an applet?
+Q16. What is a layout manager and what are different types of layout managers available in java AWT?
+Q17. What is JDBC?
+Q18. What is the Java API?
+Q19. Why there are no global variables in Java?
+Q20. What are Encapsulation, Inheritance and Polymorphism?
+Q21. What is the use of bin and lib in JDK?
+Q22. What is method overloading and method overriding?
+Q23. What is the difference between this() and super()?
+Q24. What is Domain Naming Service(DNS)?
+Q25. What are checked exceptions?
+Q26. What are runtime exceptions?
+Q27. What is the difference between error and an exception?
+Q28. What is mutable object and immutable object?
+Q29. What is the purpose of Void class?
+Q30. What is nested class?
+Q31. What are different types of access modifiers?
+Q32. What is the difference between Reader/Writer and InputStream/Output Stream?
+Q33. What is servlet?
+Q34. What is Constructor?
+Q35. What is an Iterator ?
+Q36. What is the difference between the prefix and postfix forms of the ++ operator?
+Q37. What is the difference between a constructor and a method?
+Q38. What is the purpose of apache tomcat?
+Q39. Briefly explain daemon thread.
+Q40. What is UNICODE?
+Q41. Can a constructor have different name than a Class name in Java?
+Q42. What will be the output of Round(3.7) and Ceil(3.7)?
+Q43. Can we use goto in Java to go to a particular line?
+Q44. Which object oriented Concept is achieved by using overloading and overriding?
+Q45. Is it possible to define a method in Java class but provide it’s implementation in the code of another language like C?
+Q46. Can a variable be local and static at the same time?
+Q47. In a class implementing an interface, can we change the value of any variable defined in the interface?
+Q48. Is it correct to say that due to garbage collection feature in Java, a java program never goes out of memory?
+Q49. Can we have any other return type than void for main method?
+Q50. In Java thread programming, which method is a must implementation for all threads?
+Q51. Can an Interface extend another Interface?
+Q52. How objects are stored in Java?
+Q53. What happens if an exception is not handled in a program?
+Q54. I have multiple constructors defined in a class. Is it possible to call a constructor from another constructor’s body?
+Q55. What’s meant by anonymous class?
+Q56. Is there a way to increase the size of an array after its declaration?
+Q57. If an application has multiple classes in it, is it okay to have a main method in more than one class?
+Q58. What is a Local class in Java?
+Q59. String and StringBuffer both represent String objects. Can we compare String and StringBuffer in Java?
+Q60. Can we cast any other type to Boolean Type with type casting?
+
+
+Q61. Design a GUI application in which the user enters a number in the text field and on
+clicking the button the sum of the digits of the number should be displayed in a
+label.
+Hint : Suppose user enters 123 the output should be 6(1+2+3).
+Q62. Design a GUI application to accept a String from the user in a text field and print
+using option pane whether it is a palindrome or not.
+Hint ABBA is a palindrome.
+Q63. Design a GUI application to accept the cost price and selling price form the user in
+two text fields then calculate the profit or loss incurred.
+Q64. Design a GUI application to accept a character in a text field and print in a label if
+that character is a vowel: a, e, i, o, or u. The application should be case sensitive.
+Q65. Design a GUI application that repeatedly accepts numbers in a option pane and once
+the typed number is 0 the maximum and minimum of all numbers typed are
+displayed.
+Q66. Design a GUI application in java to convert temperature from Celsius to Fahrenheit
+or vice versa using radio buttons and two text fields
+Q67. Design a GUI application in java to convert kilograms into grams, litres into
+milliliters, rupees into paisa using combobox and text fields.
+Q68. A book publishing house decided to go in for computerization. The database will be
+maintained at the back end but you have to design the front end for the company.
+You have to accept book code, Title, Author and Quantity sold from the user. The
+Price will be generated depending upon the book code. Net price should be
+calculated on the basis of the discount given.
+Bookseller - 25%
+School - 20%
+Customer - 5%
+Q69. Create a GUI application to accept a string and display it in reverse order using the
+substring() method.
+Q70. Create a GUI application to create random whole numbers between 2 float numbers
+input by the user.
+Q71. Create a GUI application to accept 3 numbers in separate text fields and display
+their sum, average, maximum or minimum after rounding the results on the click of
+appropriate buttons (There are four separate buttons - one for sum, one for
+average, one for maximum and one for minimum). The result should be displayed in
+the fourth text field.
+Q72. Create a GUI application to accept the date (as 1), month (as a number like 3 for
+March) and year (as 2010) in separate text fields and display the date in the format:
+dd/mm/yy. Take care of the following points while creating the application:
+Verify the date input before displaying it in the suggested format and display
+error messages wherever applicable
+The date is accepted as 1 (for the first of any month) but should be displayed as
+01 in the final format.
+The year is accepted as 2010 but displayed as 10 in the final format.
+Q73. Create an application to accept two strings - First Name and Last name from the user
+and display the message Welcome with the complete name of the user.
+Q74. Create an application to accept the radius of a circle, calculate the area and
+circumference and display the results in a message box after rounding off the area
+and circumference to an integer number.
+Q75. Modify application to make sure that the user has not input the complete name in
+the first name text field.
+Q76. Modify the Case Changer application developed in the lesson to display the input
+text in Title case using the substring(), toLowerCase() and toUpperCase() methods.
